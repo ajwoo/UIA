@@ -24,15 +24,15 @@ You can perform the Fast Walsh–Hadamard transform by using the command `./img.
 
 ### Orignal Image
 
-![lena](./lena/lena.png)
+![lena](./lena/lena.png =350x)
 
 ### First Transformation Performed
 
-![lenaout](./lena/lenaout.png)
+![lenaout](./lena/lenaout.png =350x)
 
 ### Second Transformation Performed
 
-![lenaout2](./lena/lenaout2.png)
+![lenaout2](./lena/lenaout2.png 350x)
 
 ## Code
 
